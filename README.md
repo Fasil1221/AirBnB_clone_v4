@@ -154,5 +154,5 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Kipronoh Vincent - [Github](https://github.com/KipronohVincent)
-Rose Wangari - [Github](https://github.com/RoseIrungu)
+fasil tassew
+Najira Berihun
